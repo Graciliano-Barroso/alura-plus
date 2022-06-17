@@ -133,7 +133,7 @@ body{
 }
 
 .lista__link a:hover, .lista__link .ativo {
-    color: var(--botao-azul);
+    color: yellow;
     font-size: 20px;
 }
 
