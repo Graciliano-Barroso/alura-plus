@@ -133,7 +133,7 @@ body{
 }
 
 .lista__link a:hover, .lista__link .ativo {
-    color: yellow;
+    color: rgb(29, 204, 29);
     font-size: 20px;
 }
 
